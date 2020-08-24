@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.exe
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.deps.json
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.runtimeconfig.json
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.runtimeconfig.dev.json
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.dll
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\bin\Debug\netcoreapp3.1\PrintSpiral2DArray.pdb
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.AssemblyInfo.cs
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.dll
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.pdb
+C:\Users\khush\source\repos\PrintSpiral2DArray\PrintSpiral2DArray\obj\Debug\netcoreapp3.1\PrintSpiral2DArray.genruntimeconfig.cache

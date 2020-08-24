@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.exe
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.deps.json
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.runtimeconfig.json
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.runtimeconfig.dev.json
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.dll
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\bin\Debug\netcoreapp3.1\KthSmallestElement.pdb
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.AssemblyInfo.cs
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.dll
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.pdb
+C:\Users\khush\source\repos\KthSmallestElement\KthSmallestElement\obj\Debug\netcoreapp3.1\KthSmallestElement.genruntimeconfig.cache

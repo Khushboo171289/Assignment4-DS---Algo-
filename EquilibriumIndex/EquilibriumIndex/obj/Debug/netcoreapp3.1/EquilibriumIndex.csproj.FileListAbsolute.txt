@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.exe
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.deps.json
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.runtimeconfig.json
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.runtimeconfig.dev.json
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.dll
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\bin\Debug\netcoreapp3.1\EquilibriumIndex.pdb
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.AssemblyInfo.cs
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.dll
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.pdb
+C:\Users\khush\source\repos\EquilibriumIndex\EquilibriumIndex\obj\Debug\netcoreapp3.1\EquilibriumIndex.genruntimeconfig.cache

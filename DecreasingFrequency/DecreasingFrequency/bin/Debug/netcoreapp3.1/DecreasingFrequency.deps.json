@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DecreasingFrequency/1.0.0": {
+        "runtime": {
+          "DecreasingFrequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecreasingFrequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

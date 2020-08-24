@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.exe
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.deps.json
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.runtimeconfig.json
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.runtimeconfig.dev.json
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.dll
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\bin\Debug\netcoreapp3.1\FindLeadersInArray.pdb
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.AssemblyInfo.cs
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.dll
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.pdb
+C:\Users\khush\source\repos\FindLeadersInArray\FindLeadersInArray\obj\Debug\netcoreapp3.1\FindLeadersInArray.genruntimeconfig.cache

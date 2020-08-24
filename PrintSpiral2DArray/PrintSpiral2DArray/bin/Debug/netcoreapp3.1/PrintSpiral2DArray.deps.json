@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrintSpiral2DArray/1.0.0": {
+        "runtime": {
+          "PrintSpiral2DArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrintSpiral2DArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

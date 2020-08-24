@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.exe
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.deps.json
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.runtimeconfig.json
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.runtimeconfig.dev.json
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.dll
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\bin\Debug\netcoreapp3.1\SubArrayOfGivenSum.pdb
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.AssemblyInfo.cs
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.dll
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.pdb
+C:\Users\khush\source\repos\SubArrayOfGivenSum\SubArrayOfGivenSum\obj\Debug\netcoreapp3.1\SubArrayOfGivenSum.genruntimeconfig.cache

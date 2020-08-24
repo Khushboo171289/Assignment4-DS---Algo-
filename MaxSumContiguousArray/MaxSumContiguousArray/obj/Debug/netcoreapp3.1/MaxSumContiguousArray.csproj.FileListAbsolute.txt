@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.exe
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.deps.json
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.runtimeconfig.json
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.runtimeconfig.dev.json
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.dll
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\bin\Debug\netcoreapp3.1\MaxSumContiguousArray.pdb
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.AssemblyInfo.cs
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.dll
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.pdb
+C:\Users\khush\source\repos\MaxSumContiguousArray\MaxSumContiguousArray\obj\Debug\netcoreapp3.1\MaxSumContiguousArray.genruntimeconfig.cache

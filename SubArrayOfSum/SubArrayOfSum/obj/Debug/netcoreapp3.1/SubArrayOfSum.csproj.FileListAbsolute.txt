@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.exe
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.deps.json
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.runtimeconfig.json
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.runtimeconfig.dev.json
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.dll
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\bin\Debug\netcoreapp3.1\SubArrayOfSum.pdb
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.AssemblyInfo.cs
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.dll
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.pdb
+C:\Users\khush\source\repos\SubArrayOfSum\SubArrayOfSum\obj\Debug\netcoreapp3.1\SubArrayOfSum.genruntimeconfig.cache

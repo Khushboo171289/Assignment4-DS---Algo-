@@ -1,0 +1,13 @@
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.exe
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.deps.json
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.runtimeconfig.json
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.runtimeconfig.dev.json
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.dll
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\bin\Debug\netcoreapp3.1\DecreasingFrequency.pdb
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.csprojAssemblyReference.cache
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.AssemblyInfo.cs
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.dll
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.pdb
+C:\Users\khush\source\repos\DecreasingFrequency\DecreasingFrequency\obj\Debug\netcoreapp3.1\DecreasingFrequency.genruntimeconfig.cache
