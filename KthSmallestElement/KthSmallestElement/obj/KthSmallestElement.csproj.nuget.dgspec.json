@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khush\\source\\repos\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj": {}
+    "D:\\Data structuring . Data structure and algorithm\\Assignment4\\Assignment4-DS---Algo-\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khush\\source\\repos\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj": {
+    "D:\\Data structuring . Data structure and algorithm\\Assignment4\\Assignment4-DS---Algo-\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khush\\source\\repos\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj",
+        "projectUniqueName": "D:\\Data structuring . Data structure and algorithm\\Assignment4\\Assignment4-DS---Algo-\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj",
         "projectName": "KthSmallestElement",
-        "projectPath": "C:\\Users\\khush\\source\\repos\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj",
+        "projectPath": "D:\\Data structuring . Data structure and algorithm\\Assignment4\\Assignment4-DS---Algo-\\KthSmallestElement\\KthSmallestElement\\KthSmallestElement.csproj",
         "packagesPath": "C:\\Users\\khush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khush\\source\\repos\\KthSmallestElement\\KthSmallestElement\\obj\\",
+        "outputPath": "D:\\Data structuring . Data structure and algorithm\\Assignment4\\Assignment4-DS---Algo-\\KthSmallestElement\\KthSmallestElement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
